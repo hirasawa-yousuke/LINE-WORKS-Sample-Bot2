@@ -25,7 +25,7 @@ DEFAULT_LANG = 'ja'
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "9999999@biahj"
+ADMIN_ACCOUNT = "111649@biahj"
 DOMAIN_ID = 10256177
 
 # api
